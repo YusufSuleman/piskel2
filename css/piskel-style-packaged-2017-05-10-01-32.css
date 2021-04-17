@@ -1,5 +1,5 @@
 html, body {
-  --highlight-color: lime;
+  --highlight-color: lightgreen;
 }
 html, body {
   height : 100%; width: 100%;
@@ -51,7 +51,7 @@ input[type="range"] {
 }
 
 a, a:visited {
-  color: lime;
+  color: lightgreen;
 }
 body {
   background: #e1e1e1;
@@ -76,7 +76,7 @@ body {
 }
 
 .highlight {
-  color: lime;
+  color: lightgreen;
 }
 
 .pull-top,
@@ -114,7 +114,7 @@ body {
  * TOOLTIPS
  */
 .tooltip-shortcut {
-  color: lime;
+  color: lightgreen;
 }
 
 .tooltip-container {
@@ -432,7 +432,7 @@ body {
 }
 
 .textfield:focus {
-  border-color: lime;
+  border-color: lightgreen;
   outline: none;
 }
 
@@ -458,11 +458,11 @@ body {
 }
 
 .button:hover {
-  color: lime;
+  color: lightgreen;
 }
 
 .button-primary {
-  background-color: lime;
+  background-color: lightgreen;
   color: black;
 }
 
@@ -539,7 +539,7 @@ body {
   background-color: #444;
   margin-right: 0;
   padding-right: 2px;
-  border-left : 3px solid lime;
+  border-left : 3px solid lightgreen;
 }
 
 /************************************************************************************************/
@@ -563,7 +563,7 @@ body {
   text-transform: uppercase;
   border-bottom: 1px #aaa solid;
   padding-bottom: 5px;
-  color: lime;
+  color: lightgreen;
 }
 
 .settings-description {
@@ -611,7 +611,7 @@ body {
 }
 
 .background-picker.selected {
-  border-color: lime;
+  border-color: lightgreen;
 }
 
 .settings-opacity-input {
@@ -767,7 +767,7 @@ body {
   width: 100%;
   height: 1px;
   z-index: 0;
-  background-color: lime;
+  background-color: lightgreen;
 }
 
 .export-tab {
@@ -783,11 +783,11 @@ body {
 
 .export-tab.selected,
 .export-tab:hover {
-  color: lime;
+  color: lightgreen;
 }
 
 .export-tab.selected {
-  border-color: lime;
+  border-color: lightgreen;
   border-bottom-color: #444;
   border-style: solid;
   border-width: 1px;
@@ -925,7 +925,7 @@ body {
   position : absolute;
   height : 100%;
   width : 100%;
-  border: 3px solid lime;
+  border: 3px solid lightgreen;
   box-sizing: border-box;
 }
 
@@ -1120,11 +1120,11 @@ body {
 }
 
 .pen-size-option.selected:before {
-  background-color: lime;
+  background-color: lightgreen;
 }
 
 .pen-size-option.selected {
-  border-color: lime;
+  border-color: lightgreen;
 }
 
 .pen-size-option.labeled:before {
@@ -1150,7 +1150,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 // HTML
 <i class="icon icon-home"></i>
 */
-.icon-common-keyboard-lime {
+.icon-common-keyboard-lightgreen {
   background-image: url(../img/icons.png);
   background-position: 0px -230px;
   width: 36px;
@@ -1192,7 +1192,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
   width: 30px;
   height: 30px;
 }
-.icon-minimap-popup-preview-arrow-lime {
+.icon-minimap-popup-preview-arrow-lightgreen {
   background-image: url(../img/icons.png);
   background-position: -230px -143px;
   width: 18px;
@@ -1351,7 +1351,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 
 @media (-webkit-min-device-pixel-ratio: 2),
        (min-resolution: 192dpi) {
-  .icon-common-keyboard-lime {
+  .icon-common-keyboard-lightgreen {
     background-image: url(../img/icons@2x.png);
     background-size: 260px 251px;
   }
@@ -1379,7 +1379,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
     background-image: url(../img/icons@2x.png);
     background-size: 260px 251px;
   }
-  .icon-minimap-popup-preview-arrow-lime {
+  .icon-minimap-popup-preview-arrow-lightgreen {
     background-image: url(../img/icons@2x.png);
     background-size: 260px 251px;
   }
@@ -1631,7 +1631,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
   -moz-box-sizing : border-box;
 
   border-radius: 3px;
-  border : 3px solid lime;
+  border : 3px solid lightgreen;
   background: #444;
   overflow: auto;
 }
@@ -1655,7 +1655,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 
 .dialog-head {
   width: 100%;
-  background: lime;
+  background: lightgreen;
   margin: 0;
   padding: 10px;
   color: black;
@@ -1718,7 +1718,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 
 .local-piskel-list-head {
   font-weight: bold;
-  color: lime;
+  color: lightgreen;
 }
 
 .local-piskel-load-button,
@@ -1730,7 +1730,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
   bottom: 10px;
   left: 10px;
 
-  color : lime;
+  color : lightgreen;
   font-weight: bold;
   font-size : 1.25em;
   line-height: 20px;
@@ -1840,8 +1840,8 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 }
 
 .cheatsheet-shortcut-editable .cheatsheet-key {
-  border-color: lime;
-  color: lime;
+  border-color: lightgreen;
+  color: lightgreen;
 }
 
 .cheatsheet-shortcut-editing .cheatsheet-key {
@@ -1867,7 +1867,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
   padding : 10px;
   overflow: hidden;
 
-  background-color : lime;
+  background-color : lightgreen;
 }
 
 .cheatsheet-helptext {
@@ -2058,7 +2058,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
   transition : border-color 0.2s;
 }
 .create-palette-color:hover {
-  border:1px solid lime;
+  border:1px solid lightgreen;
 }
 
 .colors-list-drop-proxy {
@@ -2066,17 +2066,17 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 }
 
 .create-palette-new-color {
-  border:2px dotted lime;
+  border:2px dotted lightgreen;
 
   border-radius: 2px;
   line-height: 40px;
   text-align: center;
   font-size: 20px;
-  color: lime;
+  color: lightgreen;
 }
 
 .create-palette-color.selected {
-  border:2px solid lime;
+  border:2px solid lightgreen;
 }
 
 .create-palette-remove-color {
@@ -2255,7 +2255,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
   font-style: italic;
   font-weight: normal;
   text-shadow: none;
-  color: lime;
+  color: lightgreen;
 }
 
 [name=smooth-resize-checkbox] {
@@ -2280,7 +2280,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
   box-sizing: border-box;
 
   padding: 10px;
-  border-right: 3px solid lime;
+  border-right: 3px solid lightgreen;
 }
 
 .import-preview canvas {
@@ -2307,12 +2307,12 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 .import-meta-value,
 .import-meta-label {
   padding: 2px 4px;
-  border: 1px solid lime;
+  border: 1px solid lightgreen;
 }
 
 .import-meta-label {
   border-radius: 2px 0 0 2px;
-  color: lime;
+  color: lightgreen;
   border-right-width: 0;
 }
 
@@ -2371,7 +2371,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 
 .import-resize-option :checked + span,
 .insert-mode-option :checked + span {
-  color: lime;
+  color: lightgreen;
 }
 
 /**
@@ -2391,11 +2391,11 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 }
 
 .import-resize-option :checked + span {
-  color: lime;
+  color: lightgreen;
 }
 
 .import-resize-warning {
-  color: lime;
+  color: lightgreen;
 }
 
 /**
@@ -2465,7 +2465,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 }
 
 .dialog-performance-info-body sup {
-  color: lime;
+  color: lightgreen;
   cursor: pointer;
 }
 
@@ -2513,7 +2513,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 }
 
 #current-user-agent {
-  color: lime;
+  color: lightgreen;
 }
 
 .user-message {
@@ -2529,7 +2529,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
   border-bottom: 0;
 
   color: #222;
-  background-color: lime;
+  background-color: lightgreen;
 
   font-weight: bold;
   font-size: 13px;
@@ -2559,7 +2559,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
   padding: 10px;
   width: 360px;
   border-top-right-radius: 2px;
-  border: lime 2px solid;
+  border: lightgreen 2px solid;
   border-left: 0;
   border-bottom: 0;
   background-color: #444;
@@ -2585,7 +2585,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
   margin-top: 8px;
   height : 4px;
   width : 300px;
-  background : linear-gradient(to left, lime, lime) no-repeat -300px 0;
+  background : linear-gradient(to left, lightgreen, lightgreen) no-repeat -300px 0;
   background-color : black;
 }
 .toolbox-container {
@@ -2670,7 +2670,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 
 .layers-toggle-preview-enabled,
 .layers-toggle-preview-enabled:hover {
-  color : lime;
+  color : lightgreen;
 }
 
 /**
@@ -2723,7 +2723,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 .current-layer-item,
 .current-layer-item:hover {
   background : #333;
-  color: lime;
+  color: lightgreen;
 }
 .palettes-list-container {
   min-height: 100px;
@@ -2830,7 +2830,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
   position: absolute;
   bottom: 1px;
   display: inline-block;
-  background: url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20height%3D%2215%22%20width%3D%2215%22%3E%3Cpath%20stroke%3D%22lime%22%20stroke-width%3D%222%22%20d%3D%22M1%203v10h10z%22/%3E%3C/svg%3E');
+  background: url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20height%3D%2215%22%20width%3D%2215%22%3E%3Cpath%20stroke%3D%22lightgreen%22%20stroke-width%3D%222%22%20d%3D%22M1%203v10h10z%22/%3E%3C/svg%3E');
   width: 14px;
   height: 14px;
 }
@@ -2841,7 +2841,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 
 .palettes-list-secondary-color:before {
   right: 1px;
-  background: url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20height%3D%2215%22%20width%3D%2215%22%3E%3Cpath%20stroke%3D%22lime%22%20stroke-width%3D%222%22%20d%3D%22M3%2013h10V3z%22/%3E%3C/svg%3E');
+  background: url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20height%3D%2215%22%20width%3D%2215%22%3E%3Cpath%20stroke%3D%22lightgreen%22%20stroke-width%3D%222%22%20d%3D%22M3%2013h10V3z%22/%3E%3C/svg%3E');
 }
 
 /*
@@ -2854,7 +2854,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
   right: 0;
 
   background-color: black;
-  color: lime;
+  color: lightgreen;
 
   font-family: Tahoma;
   font-size: 0.5em;
@@ -2981,7 +2981,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 
 .preview-toggle-onion-skin-enabled,
 .preview-toggle-onion-skin-enabled:hover {
-  color : lime;
+  color : lightgreen;
 }
 
 .preview-contextual-actions {
@@ -3022,8 +3022,8 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 }
 
 .preview-contextual-action:hover {
-  color: lime;
-  border-color: lime;
+  color: lightgreen;
+  border-color: lightgreen;
 }
 
 /**
@@ -3071,8 +3071,8 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 
 .preview-drop-down .size-button-selected {
   opacity: 1;
-  color: lime;
-  border-color: lime;
+  color: lightgreen;
+  border-color: lightgreen;
   z-index: 5;
 }
 
@@ -3083,21 +3083,21 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 }
 
 .open-popup-preview-button:hover {
-  border-color: lime;
+  border-color: lightgreen;
 }
 
 /**
  * The regular image is provided by the sprite icons.png+icons.css
  */
 .icon-minimap-popup-preview-arrow-white:hover {
-  background-image: url(../img/icons/minimap/minimap-popup-preview-arrow-lime.png);
+  background-image: url(../img/icons/minimap/minimap-popup-preview-arrow-lightgreen.png);
   background-position: 0 0;
   background-size: 18px 18px;
 }
 
 @media (-webkit-min-device-pixel-ratio: 2),
        (min-resolution: 192dpi) {
-  background-image: url(../img/icons/minimap/minimap-popup-preview-arrow-lime@2x.png);
+  background-image: url(../img/icons/minimap/minimap-popup-preview-arrow-lightgreen@2x.png);
 
 }
 
@@ -3689,8 +3689,8 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
 }
 
 .sp-palette .sp-thumb-el.sp-thumb-active {
-  border-color: lime;
-  box-shadow: 0 0 0px 1px lime;
+  border-color: lightgreen;
+  box-shadow: 0 0 0px 1px lightgreen;
 }
 
 .sp-input {
@@ -3911,7 +3911,7 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
 }
 
 .add-frame-action:hover {
-  border-color: lime;
+  border-color: lightgreen;
 }
 
 .preview-tile {
@@ -3985,7 +3985,7 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
 }
 
 .preview-tile.selected {
-  border-color: lime;
+  border-color: lightgreen;
 }
 
 .preview-tile.selected:after {
@@ -3994,7 +3994,7 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
   top: 38px;
   right: -9px;
   border: transparent 4px solid;
-  border-left-color: lime;
+  border-left-color: lightgreen;
   border-width: 6px 0 6px 6px;
   border-style: solid;
 }
@@ -4005,13 +4005,13 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
  */
 
 .preview-tile-drop-proxy {
-  border: 3px dashed lime;
+  border: 3px dashed lightgreen;
   background-color: rgba(255, 215,0, 0.2);
 }
 
 .minimap-crop-frame {
   position: absolute;
-  border: 2px solid lime;
+  border: 2px solid lightgreen;
   z-index: 100;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -4059,7 +4059,7 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
 }
 
 .anchor-option.selected {
-  border : 3px solid lime;
+  border : 3px solid lightgreen;
 }
 
 .anchor-option:before {
@@ -4075,7 +4075,7 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
   content: '';
   width: 4px;
   height: 4px;
-  background: lime;
+  background: lightgreen;
 }
 
 .disabled .anchor-option.selected:before {
@@ -4095,24 +4095,24 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
 }
 
 .anchor-option[data-neighbor="bottom"]:before {
-  border-top-color: lime;
+  border-top-color: lightgreen;
   margin-left: -4px;
 }
 
 .anchor-option[data-neighbor="left"]:before {
-  border-right-color: lime;
+  border-right-color: lightgreen;
   margin-top: -4px;
   margin-left: -6px;
 }
 
 .anchor-option[data-neighbor="top"]:before {
-  border-bottom-color: lime;
+  border-bottom-color: lightgreen;
   margin-top: -6px;
   margin-left: -4px;
 }
 
 .anchor-option[data-neighbor="right"]:before {
-  border-left-color: lime;
+  border-left-color: lightgreen;
   margin-top: -4px;
 }
 
