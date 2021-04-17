@@ -632,7 +632,7 @@ body {
   display: inline-block;
   line-height: 30px;
   width: 40px;
-  border: 1px solid grey;
+  border: 1px solid #9d9d9d;
   box-sizing: border-box;
   border-radius: 3px;
   text-align: center;
@@ -726,7 +726,7 @@ body {
   display: inline-block;
   line-height: 30px;
   width: 40px;
-  border: 1px solid grey;
+  border: 1px solid #9d9d9d;
   box-sizing: border-box;
   border-radius: 3px;
   text-align: center;
@@ -1156,7 +1156,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
   width: 36px;
   height: 21px;
 }
-.icon-common-swapcolors-arrow-grey {
+.icon-common-swapcolors-arrow-#9d9d9d {
   background-image: url(../img/icons.png);
   background-position: -230px -107px;
   width: 18px;
@@ -1355,7 +1355,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
     background-image: url(../img/icons@2x.png);
     background-size: 260px 251px;
   }
-  .icon-common-swapcolors-arrow-grey {
+  .icon-common-swapcolors-arrow-#9d9d9d {
     background-image: url(../img/icons@2x.png);
     background-size: 260px 251px;
   }
@@ -2581,7 +2581,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 }
 
 .progress-bar {
-  border : 1px solid grey;
+  border : 1px solid #9d9d9d;
   margin-top: 8px;
   height : 4px;
   width : 300px;
