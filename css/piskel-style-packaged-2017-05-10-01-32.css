@@ -43,7 +43,7 @@ input[type="range"] {
 
 ::-webkit-scrollbar-thumb {
     border-radius: 2px;
-    background-color: #666;
+    background-color: #979797;
 }
 
 ::-webkit-scrollbar-track {
