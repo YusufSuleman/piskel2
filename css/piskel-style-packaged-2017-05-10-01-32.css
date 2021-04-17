@@ -1,5 +1,5 @@
 html, body {
-  --highlight-color: gold;
+  --highlight-color: lime;
 }
 html, body {
   height : 100%; width: 100%;
@@ -51,7 +51,7 @@ input[type="range"] {
 }
 
 a, a:visited {
-  color: gold;
+  color: lime;
 }
 body {
   background: #1D1D1D;
@@ -76,7 +76,7 @@ body {
 }
 
 .highlight {
-  color: gold;
+  color: lime;
 }
 
 .pull-top,
@@ -114,7 +114,7 @@ body {
  * TOOLTIPS
  */
 .tooltip-shortcut {
-  color: gold;
+  color: lime;
 }
 
 .tooltip-container {
@@ -432,7 +432,7 @@ body {
 }
 
 .textfield:focus {
-  border-color: gold;
+  border-color: lime;
   outline: none;
 }
 
@@ -458,11 +458,11 @@ body {
 }
 
 .button:hover {
-  color: gold;
+  color: lime;
 }
 
 .button-primary {
-  background-color: gold;
+  background-color: lime;
   color: black;
 }
 
