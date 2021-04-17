@@ -35,7 +35,7 @@ input[type="range"] {
   padding: 0;
 }
 
-/* Force apparition of scrollbars on leopard */
+/* Force apparition of scrollbarss on leopard */
 ::-webkit-scrollbar {
     -webkit-appearance: none;
     width: 6px;
