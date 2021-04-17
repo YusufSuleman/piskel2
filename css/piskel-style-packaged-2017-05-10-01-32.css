@@ -414,7 +414,7 @@ body {
 .textfield {
   box-sizing:border-box;
 
-  background : black;
+  background : lightgray;
   border : 1px solid #888;
   border-radius : 2px;
   padding : 3px 10px;
@@ -463,12 +463,12 @@ body {
 
 .button-primary {
   background-color: lightgreen;
-  color: black;
+  color: lightgray;
 }
 
 .button-primary:hover {
   background-color: white;
-  color: black;
+  color: lightgray;
 }
 
 .button[disabled],
@@ -527,7 +527,7 @@ body {
   width: 280px;
   border-top-left-radius: 4px;
   border-bottom-left-radius: 4px;
-  box-shadow: 0 0 5px 0 black;
+  box-shadow: 0 0 5px 0 lightgray;
 }
 
 .right-sticky-section.expanded .tool-icon {
@@ -1025,7 +1025,7 @@ body {
   width: 16px;
   height: 16px;
   text-indent: -10000px;
-  border: 1px solid black;
+  border: 1px solid lightgray;
   background: white;
   cursor: pointer;
   position : relative;
@@ -1129,7 +1129,7 @@ body {
 
 .pen-size-option.labeled:before {
   content: attr(real-pen-size);
-  color: black;
+  color: lightgray;
 }
 
 /*
@@ -1658,7 +1658,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
   background: lightgreen;
   margin: 0;
   padding: 10px;
-  color: black;
+  color: lightgray;
   font-size: 1.8em;
   height: 45px;
   box-sizing: border-box;
@@ -1874,7 +1874,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
   font-size: 14px;
   height : 26px;
   line-height : 26px;
-  color: black;
+  color: lightgray;
 }
 
 .cheatsheet-helptext-tooltip {
@@ -1985,7 +1985,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 
   height: 460px;
 
-  border: 1px solid black;
+  border: 1px solid lightgray;
   background: #333;
 }
 
@@ -2185,7 +2185,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
   text-align: center;
   font-size: 3em;
   color: white;
-  text-shadow: 0 0 60px black;
+  text-shadow: 0 0 60px lightgray;
 }
 
 .import-subsection {
@@ -2549,7 +2549,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 }
 
 .user-message .close:hover {
-  color: black;
+  color: lightgray;
 }
 
 .progress-bar-container {
@@ -2586,7 +2586,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
   height : 4px;
   width : 300px;
   background : linear-gradient(to left, lightgreen, lightgreen) no-repeat -300px 0;
-  background-color : black;
+  background-color : lightgray;
 }
 .toolbox-container {
   border: 2px solid #888;
@@ -2853,7 +2853,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
   top: 0;
   right: 0;
 
-  background-color: black;
+  background-color: lightgray;
   color: lightgreen;
 
   font-family: Tahoma;
@@ -2907,7 +2907,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 .preview-container {
   flex-shrink: 0;
 
-  border : 0 Solid black;
+  border : 0 Solid lightgray;
   border-radius:5px 0 0 5px;
   box-shadow : 0 0 2px rgba(0,0,0,0.2);
   font-size: 0;
@@ -3183,7 +3183,7 @@ License: MIT
     width: 6px;
     left: 50%;
     cursor: pointer;
-    border: 1px solid black;
+    border: 1px solid lightgray;
     background: white;
     opacity: .8;
 }
@@ -3597,7 +3597,7 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
   background-color: #2B2B2B;
   border: solid 4px #888;
   padding: 5px 5px 0 5px;
-  box-shadow : 0 0 5px 0 black;
+  box-shadow : 0 0 5px 0 lightgray;
 }
 
 .sp-container[data-y-position=bottom] {
