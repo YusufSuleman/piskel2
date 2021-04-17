@@ -54,7 +54,7 @@ a, a:visited {
   color: lime;
 }
 body {
-  background: #1D1D1D;
+  background: #e1e1e1;
 }
 
 /* Browser fixes */
@@ -3851,8 +3851,8 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
   -o-transition: all 500ms ease-out;
   transition: all 500ms ease-out;
 
-  background-image: linear-gradient(45deg, #1D1D1D 20%, transparent 25%, transparent 75%, #1D1D1D 80%, #1D1D1D),
-                    linear-gradient(-45deg, #1D1D1D 20%, transparent 25%, transparent 75%, #1D1D1D 80%, #1D1D1D);
+  background-image: linear-gradient(45deg, #e1e1e1 20%, transparent 25%, transparent 75%, #e1e1e1 80%, #e1e1e1),
+                    linear-gradient(-45deg, #e1e1e1 20%, transparent 25%, transparent 75%, #e1e1e1 80%, #e1e1e1);
   background-size: 30px 40px;
   background-repeat: repeat-x;
   background-position: 3px 0;
