@@ -443,7 +443,7 @@ body {
 .button {
   box-sizing: border-box;
   height: 24px;
-  background-color: #979797;
+  background-color: #666;
   border-style: none;
   border-radius: 2px;
   cursor: pointer;
@@ -2341,7 +2341,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 
 .import-mode-section {
   display: flex;
-  border: 3px solid #979797;
+  border: 3px solid #666;
   border-radius: 3px;
   padding: 10px;
   margin-bottom: 10px;
@@ -2454,7 +2454,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 }
 
 .dialog-performance-info-body ul {
-  border: 1px solid #979797;
+  border: 1px solid #666;
   padding: 5px;
   border-radius: 3px;
 }
@@ -2610,7 +2610,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 .toolbox-buttons {
   flex-shrink: 0;
   overflow: hidden;
-  border-top: 1px solid #979797;
+  border-top: 1px solid #666;
   border-bottom: 1px solid #222;
 }
 
@@ -3348,7 +3348,7 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
 }
 .sp-color, .sp-hue
 {
-    border: solid 1px #979797;
+    border: solid 1px #666;
 }
 
 /* Input */
@@ -3694,7 +3694,7 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
 }
 
 .sp-input {
-  border: 1px solid #979797;
+  border: 1px solid #666;
   margin: 0;
   background: #111;
   border-radius: 2px;
@@ -4123,7 +4123,7 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
 .frame-picker-wrapper {
   width: 150px;
   height: 150px;
-  border: 3px solid #979797;
+  border: 3px solid #666;
   border-radius: 3px;
 }
 
@@ -4146,7 +4146,7 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
   display: flex;
   width: 100%;
   height: 24px;
-  border-top: 1px solid #979797;
+  border-top: 1px solid #666;
 }
 
 .frame-nav .button {
