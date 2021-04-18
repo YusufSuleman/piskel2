@@ -4204,3 +4204,7 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
 .current-step-out {
   margin-left: 100%;
 }
+
+left {
+  padding-right: 50%;
+}
